@@ -25,3 +25,8 @@
 * Best suited to real-time application for data analytics. performance.
 * Improve existing application reporting / analytics Live working HTML templates.
 
+### DashBoard
+![Screenshot 2021-08-01 205338](https://user-images.githubusercontent.com/66751807/127776511-6e605ed1-7079-43e3-95f4-9dd7b68959d9.jpg)
+
+
+
