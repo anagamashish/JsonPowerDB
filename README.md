@@ -15,4 +15,13 @@
 * Pluggable and user defined API.
 * Minimize Total Cost of Ownership.
 
+### Use-Cases
+
+* Any software application that needs backend database. o Dynamic web applications / Mobile / Desktop Apps.
+* All RDBMS Use-cases.
+* All Document DB Use-cases.
+* All Key-Value DB Use-cases.
+* Use-cases that needs GeoSpatial / Time-series Analytics.
+* Best suited to real-time application for data analytics. performance.
+* Improve existing application reporting / analytics Live working HTML templates.
 
